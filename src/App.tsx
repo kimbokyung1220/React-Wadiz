@@ -9,6 +9,7 @@ import './wabiz/css/plugin.css'
 
 function App() {
   return (
+
     <div className="wrap">
       <Header />
       <Content />
